@@ -1,7 +1,6 @@
 # coding : UTF8
 #作成者:永井智明
-#最新版2022/12/09
-#連絡先:m213044@edu.kaiyodai.ac.jp 又は t.n100409@gmail.com
+#連絡先:t.n100409@gmail.com
 
 #目次
 '''
